@@ -9,9 +9,9 @@ In today's digital landscape, understanding user behavior is crucial for creatin
 ## UI
 The dashboard offers an intuitive user interface to analyze user behavior data and track webpage performance. Users can interact with various visualizations to gain insights into user engagement and conversion rates.
 
-![image](https://github.com/SATYAJEETBEDI/Beyond-Data/assets/99906282/fdcb489c-a191-4554-89b6-2d7da4084d53)
+![image](https://github.com/SATYAJEETBEDI/Beyond-Data/assets/99906282/5f293eeb-814f-4eae-83e8-b4b52d7cbce3)
 ![image](https://github.com/SATYAJEETBEDI/Beyond-Data/assets/99906282/417a5dc4-abf8-47ac-9e7f-3384e622ba5d)
-![image](https://github.com/SATYAJEETBEDI/Beyond-Data/assets/99906282/3cf22bbc-4697-4a09-b8fa-5b96e88b44b6)
+![image](https://github.com/SATYAJEETBEDI/Beyond-Data/assets/99906282/22c6b0e5-95bb-4d98-8385-ee1e88e27b2a)
 
 ## Features
 - User-friendly and interactive dashboard for tracking user behavior.
